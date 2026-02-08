@@ -1,5 +1,5 @@
 import { Link, useNavigate } from "react-router-dom";
-import ProviderAuth, { ImageBox } from ".";
+import { ImageBox } from ".";
 import { toast } from "react-toastify";
 
 // import { motion } from "framer-motion";
@@ -59,14 +59,6 @@ const Register = () => {
             <p className="text-lightGray text-sm">Join us for premium food delivery</p>
           </div>
           <form className="flex flex-col gap-6">
-            <ProviderAuth />
-
-            <div className="flex items-center gap-4">
-              <div className="h-[1px] bg-white/10 flex-1"></div>
-              <p className="text-sm text-lightGray">OR</p>
-              <div className="h-[1px] bg-white/10 flex-1"></div>
-            </div>
-
             <div className="flex flex-col gap-4">
               <div className="relative group">
                 <input
