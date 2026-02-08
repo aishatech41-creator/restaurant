@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbb4d79b.css",
+    "main.js": "/static/js/main.bd41f72e.js",
+    "static/js/787.04b3e95b.chunk.js": "/static/js/787.04b3e95b.chunk.js",
+    "static/media/cheff.png": "/static/media/cheff.73e7742969533f1c7820.png",
+    "static/media/c3.png": "/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/f5.png": "/static/media/f5.1929b818c42f7c556b01.png",
+    "static/media/chef1.png": "/static/media/chef1.705417f3cf231c71d1bd.png",
+    "static/media/fi3.png": "/static/media/fi3.80deaafbc1e0520c58e6.png",
+    "static/media/i1.png": "/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/momo.png": "/static/media/momo.cf7b932168254bf4ac68.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/visa.png": "/static/media/visa.16199123cab9531932f3.png",
+    "static/media/emptyCart.svg": "/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/index.html",
+    "main.fbb4d79b.css.map": "/static/css/main.fbb4d79b.css.map",
+    "main.bd41f72e.js.map": "/static/js/main.bd41f72e.js.map",
+    "787.04b3e95b.chunk.js.map": "/static/js/787.04b3e95b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb4d79b.css",
+    "static/js/main.bd41f72e.js"
+  ]
+}
